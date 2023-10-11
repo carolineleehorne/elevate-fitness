@@ -4,7 +4,7 @@ Elevate Fitness is a collaborative project developed to streamline and personali
 
 ## Features
 
-# Current Features
+### Current Features
 
 1. User Authentication: Users can securely log in and maintain a personal profile.
 2. Workout Selection: Users can pick from pre-loaded workouts or craft their own custom routines.
@@ -13,7 +13,7 @@ Elevate Fitness is a collaborative project developed to streamline and personali
 5. Interactive Interface: A user-friendly interface makes navigation seamless.
 6. Trainer Showcase: Before signing up, potential users can view profiles of trainers and learn more about the app on the homepage.
 
-# Planned Features
+### Planned Features
 
 1. Calendar Integration: Users will be able to schedule their workouts, plan in advance, and view their historical data through a calendar view.
 2. Random Workout Generator: With a simple click, the app will be capable of generating a random workout based on user preferences and history.
